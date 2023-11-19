@@ -35,7 +35,7 @@ To embark on developing this project, follow these steps:
 1. **Clone the Repository:**
 
     ```bash
-    git clone [https://github.com/Abdurrahman-shaikh/e-commerce-project.git](https://github.com/Abdurrahman-shaikh/e-commerce-project.git)
+    git clone https://github.com/Abdurrahman-shaikh/e-commerce-project.git
     cd e-commerce-full-stack
     ```
 
