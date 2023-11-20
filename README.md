@@ -88,6 +88,7 @@ We welcome contributions from all interested developers. Please follow these gui
 By adhering to these guidelines, you can help maintain the project's quality and contribute to its ongoing development.
 
 ```Screenshot
+```
 
 ![Screenshot from 2023-11-20 18-16-40](https://github.com/Abdurrahman-shaikh/e-commerce-project/assets/90972063/7a42b49b-13ef-4303-98db-cf17ac378d26)
 
