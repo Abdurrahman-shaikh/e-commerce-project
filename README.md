@@ -106,6 +106,7 @@ By following these instructions and providing the correct MySQL database credent
 
 **Screenshot:**
 
+```
 
 ![Screenshot from 2023-11-20 18-16-40](https://github.com/Abdurrahman-shaikh/e-commerce-project/assets/90972063/7a42b49b-13ef-4303-98db-cf17ac378d26)
 
@@ -113,7 +114,6 @@ By following these instructions and providing the correct MySQL database credent
 
 ![Screenshot from 2023-11-20 18-22-04](https://github.com/Abdurrahman-shaikh/e-commerce-project/assets/90972063/cad066b8-33ec-4d26-97d4-b01608029a83)
 
-```
 
 ## Contributing
 
