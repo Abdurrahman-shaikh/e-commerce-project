@@ -87,8 +87,36 @@ We welcome contributions from all interested developers. Please follow these gui
 
 By adhering to these guidelines, you can help maintain the project's quality and contribute to its ongoing development.
 
-```Screenshot
-```
+**Important Note:**
+
+Please make sure to update the `application.properties` file located in the `backend` directory. The database configuration details, such as the database name, username, and password, need to be updated with the appropriate values for your MySQL database setup.
+
+**Specific Instructions:**
+
+1. Navigate to the `spring-boot -> src -> main -> resources` directory.
+2. Locate and open the `application.properties` file.
+3. Identify the following properties and replace the placeholder values with your actual MySQL database credentials:
+
+   * `spring.datasource.url`: Replace `<your_database_url>` with the actual URL of your MySQL database.
+   * `spring.datasource.username`: Replace `<your_database_username>` with your MySQL database username.
+   * `spring.datasource.password`: Replace `<your_database_password>` with your MySQL database password.
+
+4. Save the `application.properties` file.
+5. Restart the backend application to apply the updated database configuration.
+
+**Example:**
+
+```properties
+spring.datasource.url=jdbc:mysql://localhost:3306/<your_database_name>
+spring.datasource.username=<your_database_username>
+spring.datasource.password=<your_database_password>
+
+
+By following these instructions and providing the correct MySQL database credentials, you can successfully connect the backend application to your MySQL database.
+
+
+**Screenshot:**
+
 
 ![Screenshot from 2023-11-20 18-16-40](https://github.com/Abdurrahman-shaikh/e-commerce-project/assets/90972063/7a42b49b-13ef-4303-98db-cf17ac378d26)
 
