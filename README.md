@@ -75,17 +75,6 @@ To embark on developing this project, follow these steps:
     c. Choose "Existing Maven Projects" and click "Next."
     d. Locate the project's root directory and click "Finish."
 
-## Contributing
-
-We welcome contributions from all interested developers. Please follow these guidelines when contributing:
-
-- Create an issue for any bugs or feature requests you encounter.
-- Fork the repository and make your changes in a separate branch.
-- Submit a pull request once your changes are complete.
-- Ensure your changes adhere to the project's coding style and conventions.
-- Provide clear and concise commit messages explaining your changes.
-
-By adhering to these guidelines, you can help maintain the project's quality and contribute to its ongoing development.
 
 **Important Note:**
 
@@ -123,3 +112,15 @@ By following these instructions and providing the correct MySQL database credent
 ![Screenshot from 2023-11-20 18-17-10](https://github.com/Abdurrahman-shaikh/e-commerce-project/assets/90972063/35a9c02a-eab5-4d48-a23e-bed53900d3fa)
 
 ![Screenshot from 2023-11-20 18-22-04](https://github.com/Abdurrahman-shaikh/e-commerce-project/assets/90972063/cad066b8-33ec-4d26-97d4-b01608029a83)
+
+## Contributing
+
+We welcome contributions from all interested developers. Please follow these guidelines when contributing:
+
+- Create an issue for any bugs or feature requests you encounter.
+- Fork the repository and make your changes in a separate branch.
+- Submit a pull request once your changes are complete.
+- Ensure your changes adhere to the project's coding style and conventions.
+- Provide clear and concise commit messages explaining your changes.
+
+By adhering to these guidelines, you can help maintain the project's quality and contribute to its ongoing development.
