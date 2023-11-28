@@ -15,10 +15,10 @@ import com.azmi.repository.UserRepository;
 @Service
 public class CustomUserDetails implements UserDetailsService {
 	
-	private UserRepository userRepository;
+	private final UserRepository userRepository;
 	
 	public CustomUserDetails(UserRepository userRepository) {
-		this.userRepository=userRepository;
+		this.userRepository = userRepository;
 		
 	}
 
